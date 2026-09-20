@@ -67,8 +67,7 @@ A responsive weather application built using **HTML, CSS and JavaScript**.
 ## 🤝 Connect With Me
 
 * 💻 GitHub: [@syedzayarizvi](https://github.com/syedzayarizvi)
-* 🔗 LinkedIn: [Syed Shuja Abbas](www.linkedin.com/in/
-syed-shuja-abbas)
+* 🔗 LinkedIn: [Syed Shuja Abbas](www.linkedin.com/in/syed-shuja-abbas)
 
 ---
 
